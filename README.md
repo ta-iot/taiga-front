@@ -1,6 +1,7 @@
 ## ATENÇÃO !!!
 Este repositório é uma cópia de um repositório sobre a licença AGPL-3. E está compartilhado com 2 repositórios remotos. Ao executar o commit faça-o para:
 * `origin` fork do taiga original no github;
+    * https://github.com/ta-iot/taiga-front.git
 * `gitlab` versão no gitlab privado.
 
 
