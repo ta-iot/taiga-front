@@ -1,3 +1,9 @@
+## ATENÇÃO !!!
+Este repositório é uma cópia de um repositório sobre a licença AGPL-3. E está compartilhado com 2 repositórios remotos. Ao executar o commit faça-o para:
+* `origin` fork do taiga original no github;
+* `gitlab` versão no gitlab privado.
+
+
 ## Taiga Front
 
 &gt; **READ THIS FIRST!**: We recently announced Taiga plans for the future and they greatly affect how we manage this repository and the current Taiga 6 release. Check it [here](https://blog.taiga.io/announcing_taiganext.html).
