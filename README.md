@@ -1,9 +1,27 @@
 ## ATENÇÃO !!!
-Este repositório é uma cópia de um repositório sobre a licença AGPL-3. E está compartilhado com 2 repositórios remotos. Ao executar o commit faça-o para:
-* `origin` fork do taiga original no github;
-    * https://github.com/ta-iot/taiga-front.git
-* `gitlab` versão no gitlab privado.
+Este repositório é uma cópia de um repositório sobre a licença AGPL-3. E deverá estar compartilhado com 2 repositórios remotos.
 
+* O repositório do github:
+    * https://github.com/ta-iot/taiga-front.git
+* O repositório do gitlab:
+    * https://git.pti.org.br/celtab/apps-tadt/taigaio/taiga-front.git
+
+* Se você realizou o clone do repositório do gitlab o seu `origin` será o gitlab, e vise versa.
+
+* Para adicionar o repositório remoto do github execute:
+    * `git remote add github https://github.com/ta-iot/taiga-front.git`
+
+* Para visualizar a lista de repositóiros remotos:
+    * `git remote -v`
+    * você verá o seguinte resultado:
+        ```
+        origin  https://git.pti.org.br/celtab/apps-tadt/taigaio/taiga-front.git (fetch)
+        origin  https://git.pti.org.br/celtab/apps-tadt/taigaio/taiga-front.git (push)
+        github  https://github.com/ta-iot/taiga-front.git (fetch)
+        github  https://github.com/ta-iot/taiga-front.git (push)
+        ```
+
+* Atualizar somente a branch `main` do `github`, pois as mudanças já homologadas que entram em produção, estarão somente na `main` do `gitlab`.
 
 ## Taiga Front
 
